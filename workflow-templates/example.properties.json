@@ -1,0 +1,6 @@
+{
+    "name": "Example",
+    "description": "This is an example starter workflow",
+    "iconName": "octicon clock",
+    "categories": ["Org", "JavaScript"],
+}
